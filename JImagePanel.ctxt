@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=void\ readFile(java.io.File)
+comment1.params=b
+comment1.target=void\ setBufferedImage(java.awt.image.BufferedImage)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
