@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomColor()
+comment1.params=min\ max
+comment1.target=int\ getDeep(int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ printFunction()
+numComments=4

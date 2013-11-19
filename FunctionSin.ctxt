@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=FunctionSin(int)
+comment1.params=level
+comment1.target=void\ function(int)
+comment2.params=
+comment2.target=java.lang.String\ getFunction()
+comment3.params=num\ num2
+comment3.target=double\ getValue(double,\ double)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sin\r\n
+numComments=4

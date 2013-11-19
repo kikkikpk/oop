@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Option()
+comment1.params=nameOfTopic
+comment1.target=Option(java.lang.String)
+comment2.params=nameOfButton\ x\ y\ width\ height
+comment2.target=void\ createButton(java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=button\ label
+comment3.target=void\ container(javax.swing.JButton,\ javax.swing.JLabel)
+comment4.params=word\ sizeFont\ x\ y\ width\ height
+comment4.target=void\ createWord(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment5.params=name
+comment5.target=void\ createImage(java.lang.String)
+comment6.params=button\ label\ x\ y\ width\ height
+comment6.target=void\ setBound(javax.swing.JButton,\ javax.swing.JLabel,\ int,\ int,\ int,\ int)
+comment7.params=num
+comment7.target=int\ random(int)
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=FunctionCos(int)
+comment1.params=
+comment1.target=java.lang.String\ getFunction()
+comment2.params=level
+comment2.target=void\ function(int)
+comment3.params=num\ num2
+comment3.target=double\ getValue(double,\ double)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ FunctionCos\r\n
+numComments=4
